@@ -1,0 +1,59 @@
+[Project]
+FileName=River Raid.dev
+Name=River Raid
+UnitCount=1
+Type=1
+Ver=1
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=River_Raid_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=0
+Icon=River Raid.ico
+ExeOutput=
+ObjectOutput=
+OverrideOutput=0
+OverrideOutputName=River Raid.exe
+HostApplication=
+Folders=
+CommandLine=
+UseCustomMakefile=0
+CustomMakefile=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000000000000
+
+[Unit1]
+FileName=main.c
+CompileCpp=0
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[VersionInfo]
+Major=2
+Minor=0
+Release=2
+Build=2
+LanguageID=1046
+CharsetID=1252
+CompanyName=
+FileVersion=
+FileDescription=Trabalho Final de Prog-I  Creditos à Fernando Granco pelo tiro e pela função de inicialização estilizada
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=River Raid
+ProductVersion=
+AutoIncBuildNr=0
+
